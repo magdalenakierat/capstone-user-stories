@@ -11,7 +11,7 @@ assignees: ''
 
 **As a** ...(user, Author, logged in User...)
 **I need** ...(describe the goal)
-**to be able to** ...(describe the reason)
+**in order to** ...(describe the reason)
 
 ## Description
 
